@@ -7,7 +7,7 @@ These files are feed to Python processor script `dat_file_processor.py` to calcu
 Trigger the script with below way on comand line- 
 
 ### In case of single input file 
->>> python dat_file_processor.py <file_name>.dat
+ `python dat_file_processor.py <file_name>.dat`
 
 ### In case of multiple files 
 ```
